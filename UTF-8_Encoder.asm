@@ -1,4 +1,4 @@
-# UTR-8 Encoder -- Dylan Burkholder
+# UTF-8 Encoder -- Dylan Burkholder
 	.data
 	.text
 	.globl	main
